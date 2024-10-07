@@ -12,6 +12,7 @@ body {
     align-items: center;
     height: 100vh;
     padding: 20px;
+    padding-top: 300px;
     background-image: linear-gradient(135deg, #f6d5f7 25%, #fcf3c4 100%);
 }
 
